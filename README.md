@@ -1,3 +1,3 @@
 # My_Script
-See you later ！
+自用仓库，运行耗时脚本。
 
